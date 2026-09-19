@@ -31,7 +31,7 @@ Production management for AAC block plants, in use at plants across India. It ha
 
 ### 🛠️ What we do
 
-| | |
+| Service | What it covers |
 |---|---|
 | **AI innovation** | Intelligent automation, document and vision AI, predictive analytics, AI-powered dashboards |
 | **Product development** | From MVP and proof of concept to production web and mobile apps, cloud-native on Azure and AWS, with CI/CD |
